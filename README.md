@@ -1,7 +1,7 @@
 # GraphQL GoogleBooks API Search
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-[Deployed application link]()
+[Deployed application link](https://jl-book-search-engine.herokuapp.com/)
 
 ## Description
 
